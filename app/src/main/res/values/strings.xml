@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mqtt Hikari</string>
+    <string name="action_settings">Settings</string>
+    <string name="onOffButton">Broadcast to server</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="broadcast_server">Broadcast server</string>
+
+    <!-- Messages Preferences -->
+    <string name="serveruri">MQTT server address</string>
+    <string name="serveruri_message">E.g. tcp://192.8.1.10:1883</string>
+    <string name="lightValue">Brigtness level</string>
+    <string name="stopMqttBroadcast">Stop broadcast</string>
+
+
+</resources>
